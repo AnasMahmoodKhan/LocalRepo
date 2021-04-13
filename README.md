@@ -4,3 +4,6 @@
 
 ## Local Development
 Open Index.html
+
+### Master after merge
+Deleted feature branch.
